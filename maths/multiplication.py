@@ -1,4 +1,4 @@
-import addition
+import maths.addition as addition
 
 def perform_operation(multiplier, multiplicand):
     result = 0

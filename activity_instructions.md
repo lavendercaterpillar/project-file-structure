@@ -1,6 +1,6 @@
 # Project File Structure Activity
 
-![an image of a calculator](calculator.jpg)
+![an image of a calculator](images/calculator.jpg)
 
 For this activity, the objective is to re-organize the files in this repo so they are organized in accordance with best practices.
 
